@@ -21,17 +21,17 @@ The Fixed-Share (alpha) algorithm is the second algorithm implemented in this pr
 
 For both the Static Expert and Fixed-Share (alpha) algorithms, a total of six experts have been designed. The design of the experts is not specified, allowing for flexibility in the implementation. Each expert's prediction contributes to the collective decision-making process. The design and characteristics of these experts are flexible, allowing for different approaches and techniques to be used. The following are the descriptions of the six experts used:
 
-1. **Decision Tree Expert**
+1. **XGBoost Classifier**   
 
-2. **Support Vector Machine Expert**
+2. **Logistic Regression**
 
-3. **Random Forest Expert**
+3. **Random Forest Classifier**
 
-4. **Neural Network Expert**
+4. **Support Vector Classifier**
 
-5. **K-Nearest Neighbors Expert**
+5. **KNN Classifier**
 
-6. **Naive Bayes Expert** 
+6. **Decision Tree Classifier** 
 
 
 

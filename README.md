@@ -1,4 +1,4 @@
-# implementation of Static Expert and Fixed-Share (alpha) algorithms
+# Implementation of Static Expert and Fixed-Share (alpha) algorithms
 
 This repository contains the implementation and analysis of Static Expert and Fixed-Share (alpha) algorithms, applied to the Cloud and Spambase data sets from the UCI Machine Learning Repository. The goal is to explore the performance of these algorithms by examining the evolution of expert weights, cumulative loss of the learner, and cumulative loss of the experts over iterations. The analysis aims to draw conclusions and provide observations based on the experimental results.
 

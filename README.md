@@ -37,6 +37,19 @@ For both the Static Expert and Fixed-Share (alpha) algorithms, a total of six ex
 
 ## Experimental Results
 
+### Static_Experts:
+
+<p align="center">
+  <img src="data/static_expert.png" alt="Undistorted" width="600"/>
+</p>
+
+
+### Fixed_Share_alpha:
+
+<p align="center">
+  <img src="data/fixed_share.png" alt="Undistorted" width="600"/>
+</p>
+
 The analysis of the algorithms involves studying the following aspects:
 
 1. Evolution of expert weights with iterations: The weights assigned to each expert by the Fixed-Share (alpha) algorithm are tracked over the course of iterations. This provides insights into the algorithm's preference for certain experts based on their performance.
@@ -44,6 +57,9 @@ The analysis of the algorithms involves studying the following aspects:
 2. Cumulative loss of the learner versus iterations: The cumulative loss of the learner is calculated and monitored throughout the iterations. This measurement helps evaluate the learning progress and effectiveness of the algorithms.
 
 3. Cumulative loss of the experts versus iterations: The cumulative loss of each individual expert is computed and observed over iterations. This analysis allows for a comparison of the performance of different experts.
+
+
+
 
 ## Usage
 

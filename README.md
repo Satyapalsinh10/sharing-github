@@ -40,14 +40,14 @@ For both the Static Expert and Fixed-Share (alpha) algorithms, a total of six ex
 ### Static_Experts:
 
 <p align="center">
-  <img src="data/static_expert.png" alt="Undistorted" width="600"/>
+  <img src="data/static_expert.png" alt="Undistorted" width="500"/>
 </p>
 
 
 ### Fixed_Share_alpha:
 
 <p align="center">
-  <img src="data/fixed_share.png" alt="Undistorted" width="600"/>
+  <img src="data/fixed_share.png" alt="Undistorted" width="500"/>
 </p>
 
 The analysis of the algorithms involves studying the following aspects:
